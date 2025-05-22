@@ -2,12 +2,12 @@
 <h3 align="center">🚀 Full Stack Developer | Java Architect | Passionate Problem Solver & Code Artist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adnan2510&label=Profile%20views&color=0e75b6&style=flat" alt="adnan2510" />
+  <img src="https://komarev.com/ghpvc/?username=adnan2510&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adnan2510&theme=onedark&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=adnan2510&theme=onedark&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -22,16 +22,17 @@
 
 ---
 
-### 📫 Reach Me At
-
-- 📧 Email: **memanmoadnan5259@gmail.com**
+### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/adnan__2510" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adnan__2510" height="30" width="40" />
+  <a href="mailto:memanmoadnan5259@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="www.linkedin.com/in/adnan-meman-6463a124b" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn - Adnan Meman" height="30" width="40" />
+   <a href="https://www.linkedin.com/in/adnan-meman-6463a124b/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/adnan__2510" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -70,6 +71,6 @@
 
 ### ⚡ Fun Fact
 
-> I don't just write code — I compose logic like music.  
-> While others see bugs, I see plot twists. 🎯  
-> And yes, I talk to my code... it usually listens 😄
+> I don't just debug — I **interrogate** the code.  
+> My keyboard knows all my secrets. 💻✨  
+> Sleep is temporary, code is forever. 🚀
