@@ -14,7 +14,6 @@
 ---
 
 ### 🌱 Currently Learning & Building With
-
 - ⚛️ **React JS** – Crafting lightning-fast and interactive UIs.
 - 🌐 **Node JS** – Building powerful backend APIs with Express.
 - 📜 **JavaScript** – Writing clean, modular code with modern ES6+ features.
