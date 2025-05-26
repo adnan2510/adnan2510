@@ -72,7 +72,6 @@
 ---
 
 ### ⚡ Fun Fact
-
 > I don't just debug — I **interrogate** the code.  
 > My keyboard knows all my secrets. 💻✨  
 > Sleep is temporary, code is forever. 🚀
